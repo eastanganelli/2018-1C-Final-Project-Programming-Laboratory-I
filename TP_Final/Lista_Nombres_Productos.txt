@@ -1,0 +1,7 @@
+HELArz2018v2 Arzum Heladera 21000 20 5.2 2.3 1.0
+MICKitA2016 KitchenAid Microondas 5600 25 0.3 0.3 0.2
+MICArz2019v8 Arzum Microondas 7200 15 0.36 0.32 0.21
+TVSony2019v4k Sony Televisor 21000 30 2.0 1.2 0.1
+MICBosch2016v10 Bosch Microondas 6150 10 0.35 0.33 0.22
+HELBre2017v4 Breville Heladera 22359 4 2.3 0.5 0.64
+TVGenEl2018v5 GeneralElectric Televisor 32080 7 2.3 1.5 0.21
