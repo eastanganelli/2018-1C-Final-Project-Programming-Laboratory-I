@@ -88,6 +88,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="ClassDiagram.cd" />
+    <None Include="[ UML ] TP Final.cd" />
   </ItemGroup>
 </Project>
