@@ -1,7 +1,14 @@
-﻿  cSimulador.cpp
-  Generating Code...
-  Compiling...
+﻿  cArticulo.cpp
+  cClientes.cpp
+  cCMHMRed.cpp
+  cComprador.cpp
+  cDespachante.cpp
+  cEmpleado.cpp
+  cHeladera.cpp
+  cMiroondas.cpp
+  cSimulador.cpp
+  cTV.cpp
+  cVendedor.cpp
   main.cpp
   Generating Code...
-  TP_Final.vcxproj -> C:\Users\alumnos.ALUMNOS\Source\Repos\tp_final_labi\Debug\TP_Final.exe
-  TP_Final.vcxproj -> C:\Users\alumnos.ALUMNOS\Source\Repos\tp_final_labi\Debug\TP_Final.pdb (Partial PDB)
+  TP_Final.vcxproj -> F:\ezequ\Documents\Favaloro\Informatics\FICEN_LABP1_2018_1C\Debug\TP_Final.exe

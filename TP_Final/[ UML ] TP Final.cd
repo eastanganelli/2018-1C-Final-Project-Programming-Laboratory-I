@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="cArticulo">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAABAAAQAAgAIAABAAAAASiAAAABAgAAAAAQAAAAA=</HashCode>
+      <FileName>cArticulo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cClientes">
+    <Position X="7.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAQEAAgQAAAAGAEAAAAAAgAAAAAAA=</HashCode>
+      <FileName>cClientes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cCMHMRed">
+    <Position X="10" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ggAACAEABEgAAAAAAAABAAAFAAAAAAgAAAAgAAAAJAA=</HashCode>
+      <FileName>cCMHMRed.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cComprador">
+    <Position X="12.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAQAAEAAAAgAIAFABAAgAAAACoBEAAAAA=</HashCode>
+      <FileName>cComprador.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cDespachante">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAEAAAAAAAAAAAAAAAAQAAAAAIAAAQAAA=</HashCode>
+      <FileName>cDespachante.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cEmpleado">
+    <Position X="11.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgACAAAAAAgAAAAAAgAAQAAQ=</HashCode>
+      <FileName>cEmpleado.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cHeladera">
+    <Position X="3" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QgAAACAAAAAAAEAABAABAAAACAAAABAAAAAAAgAAAAA=</HashCode>
+      <FileName>cHeladera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cMicroondas">
+    <Position X="5.25" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAEAABAABAAAACQAAABQAAAAAAgAAAAA=</HashCode>
+      <FileName>cMicroondas.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cSimulador">
+    <Position X="14.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAACACAAAAAAgBAAAABCACACQACAAAEAABAAABAAAA=</HashCode>
+      <FileName>cSimulador.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cTV">
+    <Position X="1" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAAAAAAEAABAAhAAAACAAAABAAAAAAAgAAAAA=</HashCode>
+      <FileName>cTV.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cVendedor">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAADAQAAA=</HashCode>
+      <FileName>cVendedor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9.33" />
+</ClassDiagram>
